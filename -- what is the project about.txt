@@ -1,0 +1,2 @@
+The project is a forum-esque webpage, that requires the users to write a story in 25 words or less, the story's prompt is given through a random image, or images acquired from the unsplash library.
+There will be a weekly limit before a new prompt is selected, and each week will have a winner (decided by the community).
